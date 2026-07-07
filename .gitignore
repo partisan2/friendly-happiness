@@ -4,3 +4,6 @@
 
 /app.spec
 /data.xlsx
+/__pycache__
+/PO_Excel_Files
+
