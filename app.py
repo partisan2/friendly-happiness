@@ -3,6 +3,7 @@ import pprint
 import glob
 import os
 from pocreater import createPoexcel
+from filterpo import filteritems
 
 output_folder = "PO_Excel_Files"
 
@@ -24,7 +25,8 @@ try:
             continue
         elif action == 2:
             print('-------------------Filter PO for departments---------------')
-            continue
+            filteritems()
+            break
         
         elif action == 3:
             break

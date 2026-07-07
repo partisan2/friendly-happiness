@@ -1,0 +1,1280 @@
+{
+  "item_list": {
+    "pastry_room": [
+      {
+        "product_id": 102000,
+        "product_name": "Blubery Danish Pastry"
+      },
+      {
+        "product_id": 102001,
+        "product_name": "Plain Croissant"
+      },
+      {
+        "product_id": 102002,
+        "product_name": "Chocolate Croissant"
+      },
+      {
+        "product_id": 102003,
+        "product_name": "Cheese Croissant"
+      },
+      {
+        "product_id": 102005,
+        "product_name": "Chicken Puff"
+      },
+      {
+        "product_id": 102006,
+        "product_name": "Fish Pastry"
+      },
+      {
+        "product_id": 102007,
+        "product_name": "Egg Pastry"
+      },
+      {
+        "product_id": 102008,
+        "product_name": "Hot Dog Pastry"
+      },
+      {
+        "product_id": 102009,
+        "product_name": "Seenisamble & Egg Pastry"
+      },
+      {
+        "product_id": 102011,
+        "product_name": "Chicken Pie"
+      },
+      {
+        "product_id": 102012,
+        "product_name": "Vegetable Pie"
+      },
+      {
+        "product_id": 102014,
+        "product_name": "Sugar Palmier - 2nos"
+      },
+      {
+        "product_id": 102015,
+        "product_name": "Masala Chicken Pastry"
+      },
+      {
+        "product_id": 102016,
+        "product_name": "Chicken Tikka Pastry"
+      },
+      {
+        "product_id": 102017,
+        "product_name": "Chicken Ham & Egg Quices"
+      },
+      {
+        "product_id": 201004,
+        "product_name": "Fish Patties"
+      },
+      {
+        "product_id": 201007,
+        "product_name": "Vegetable Patties"
+      },
+      {
+        "product_id": 201010,
+        "product_name": "Egg & Fish Patties"
+      }
+    ],
+    "rolls_room": [
+      {
+        "product_id": 201005,
+        "product_name": "Fish Roll"
+      },
+      {
+        "product_id": 201003,
+        "product_name": "Egg &Fish Roll"
+      },
+      {
+        "product_id": 201001,
+        "product_name": "Chicken & Cheese Roll"
+      },
+      {
+        "product_id": 201002,
+        "product_name": "Cheese & Ham Roll"
+      },
+      {
+        "product_id": 201000,
+        "product_name": "Prawns Roll"
+      },
+      {
+        "product_id": 201006,
+        "product_name": "Vegetable Roll"
+      },
+      {
+        "product_id": 201008,
+        "product_name": "Chicken Spring Roll"
+      },
+      {
+        "product_id": 201009,
+        "product_name": "Vegetable Spring Roll"
+      },
+      {
+        "product_id": 201011,
+        "product_name": "Chicken Savoury Roll"
+      },
+      {
+        "product_id": 201012,
+        "product_name": "Fish Cutlet"
+      },
+      {
+        "product_id": 201013,
+        "product_name": "Vegetable Cutlet"
+      },
+      {
+        "product_id": 305029,
+        "product_name": "Pan Cake"
+      }
+    ],
+    "main_kitchen": [
+      {
+        "product_id": 305028,
+        "product_name": "Lavariya"
+      },
+      {
+        "product_id": 801000,
+        "product_name": "CHICKEN LUNCH BOX"
+      },
+      {
+        "product_id": 801001,
+        "product_name": "FISH LUNCH BOX"
+      },
+      {
+        "product_id": 801010,
+        "product_name": "SET MENU RICE -S"
+      },
+      {
+        "product_id": 801011,
+        "product_name": "BIRIYANI - S"
+      },
+      {
+        "product_id": 802000,
+        "product_name": "DINNER PACKET - FRIED RICE"
+      },
+      {
+        "product_id": 802001,
+        "product_name": "DINNER PACKET - NOODLES"
+      },
+      {
+        "product_id": 802002,
+        "product_name": "DINNER PACKET - NASI GORENG"
+      },
+      {
+        "product_id": 802003,
+        "product_name": "DINNER PACKET - KOTHTHU"
+      },
+      {
+        "product_id": 802004,
+        "product_name": "DINNER PACKET - BIRIYANI"
+      },
+      {
+        "product_id": 802005,
+        "product_name": "DINNER PACKET - PARATA"
+      },
+      {
+        "product_id": 802006,
+        "product_name": "DINNER PACKET - STRING HOPPERS"
+      },
+      {
+        "product_id": 802007,
+        "product_name": "DINNER PACKET - RICE & CURRY"
+      }
+    ],
+    "bread_roll_and_sweet_buns": [
+      {
+        "product_id": 104000,
+        "product_name": "BUTTER SUGAR CREAM BUN"
+      },
+      {
+        "product_id": 104001,
+        "product_name": "CHOCOLATE CREAM BUN"
+      },
+      {
+        "product_id": 104002,
+        "product_name": "STRAWARY CREAM BUN"
+      },
+      {
+        "product_id": 104003,
+        "product_name": "VANILLA CREAM BUN"
+      },
+      {
+        "product_id": 104004,
+        "product_name": "Butter Bun (6 Pack)"
+      },
+      {
+        "product_id": 104008,
+        "product_name": "Jam Bun"
+      },
+      {
+        "product_id": 104009,
+        "product_name": "Cinnamon Bun"
+      },
+      {
+        "product_id": 104011,
+        "product_name": "Viana Roll"
+      },
+      {
+        "product_id": 104010,
+        "product_name": "Double Tea Bun Pkt (2 Nos)"
+      },
+      {
+        "product_id": 104013,
+        "product_name": "Plain Bread Roll - Pkt (2 Nos)"
+      },
+      {
+        "product_id": 104014,
+        "product_name": "Plain Burger Bun - Pkt (3 Nos)"
+      },
+      {
+        "product_id": 104015,
+        "product_name": "Plain Submarine Bun - Pkt (2 Nos)"
+      },
+      {
+        "product_id": 104012,
+        "product_name": "Plain Dinner Bun - Pkt (10 Nos)"
+      },
+      {
+        "product_id": 104016,
+        "product_name": "Milky Bun - Pkt (10 Nos)"
+      },
+      {
+        "product_id": 104005,
+        "product_name": "Butter Bread"
+      },
+      {
+        "product_id": 104006,
+        "product_name": "Cream Cheese Bread"
+      },
+      {
+        "product_id": 104007,
+        "product_name": "Chocolate Chip Bread"
+      }
+    ],
+    "breads": [
+      {
+        "product_id": 103000,
+        "product_name": "Normal Bread (Crustop)"
+      },
+      {
+        "product_id": 103001,
+        "product_name": "Sandwich Bread (S)"
+      },
+      {
+        "product_id": 103002,
+        "product_name": "Sandwich Bread (M)"
+      },
+      {
+        "product_id": 103003,
+        "product_name": "Toast Bread - S"
+      },
+      {
+        "product_id": 103004,
+        "product_name": "Toast Bread - L"
+      },
+      {
+        "product_id": 103011,
+        "product_name": "French Bread - L"
+      },
+      {
+        "product_id": 103012,
+        "product_name": "French Bread - S"
+      }
+    ],
+    "healthy_breads": [
+      {
+        "product_id": 103005,
+        "product_name": "Wholemeal Bread"
+      },
+      {
+        "product_id": 103006,
+        "product_name": "Multigrain Bread"
+      },
+      {
+        "product_id": 103007,
+        "product_name": "Sovital Bread"
+      },
+      {
+        "product_id": 103008,
+        "product_name": "Brown Bread"
+      }
+    ],
+    "rotty": [
+      {
+        "product_id": 203000,
+        "product_name": "Fish Rotty"
+      },
+      {
+        "product_id": 203001,
+        "product_name": "Vegetable Rotty"
+      },
+      {
+        "product_id": 203002,
+        "product_name": "Beef Rotty"
+      }
+    ],
+    "doughnut": [
+      {
+        "product_id": 301001,
+        "product_name": "Doughnut"
+      },
+      {
+        "product_id": 301002,
+        "product_name": "Mini Sugar Doughnut - 4nos"
+      },
+      {
+        "product_id": 301003,
+        "product_name": "Mini Chocolate Doughnut - 4nos"
+      },
+      {
+        "product_id": 301004,
+        "product_name": "Doughnut Ball Stick"
+      },
+      {
+        "product_id": 301005,
+        "product_name": "Doughnut Ball Pkt"
+      },
+      {
+        "product_id": 301006,
+        "product_name": "Burger Doughnut"
+      }
+    ],
+    "filling_buns": [
+      {
+        "product_id": 101000,
+        "product_name": "Chicken Hotdog Bun"
+      },
+      {
+        "product_id": 101001,
+        "product_name": "Chicken Devil Bun"
+      },
+      {
+        "product_id": 101002,
+        "product_name": "Sausage Devil Bun"
+      },
+      {
+        "product_id": 101003,
+        "product_name": "Mini Chicken Pizza"
+      },
+      {
+        "product_id": 101004,
+        "product_name": "Egg Bun"
+      },
+      {
+        "product_id": 101005,
+        "product_name": "Fish Bun"
+      },
+      {
+        "product_id": 101006,
+        "product_name": "Fish Cake Burger Bun"
+      },
+      {
+        "product_id": 101007,
+        "product_name": "Jumbo Sausage Bun"
+      },
+      {
+        "product_id": 101008,
+        "product_name": "Sausage Bun"
+      },
+      {
+        "product_id": 101009,
+        "product_name": "Seenisambal Bun"
+      },
+      {
+        "product_id": 101010,
+        "product_name": "Vegetable Bun"
+      },
+      {
+        "product_id": 101011,
+        "product_name": "Chicken Ham & Egg Burger bun"
+      },
+      {
+        "product_id": 101012,
+        "product_name": "Cheese Sausage Bun"
+      },
+      {
+        "product_id": 101013,
+        "product_name": "Cheese & Tomato Pizza"
+      },
+      {
+        "product_id": 101014,
+        "product_name": "Chicken Pizza Slices"
+      },
+      {
+        "product_id": 101016,
+        "product_name": "Crispy Chicken Burger"
+      },
+      {
+        "product_id": 101017,
+        "product_name": "Corn & Ham Mayo Bun"
+      },
+      {
+        "product_id": 101018,
+        "product_name": "Cheese Mayo Bun"
+      },
+      {
+        "product_id": 101019,
+        "product_name": "Cheese & Ham Bun"
+      },
+      {
+        "product_id": 101020,
+        "product_name": "Hotdog Kebab Stick"
+      },
+      {
+        "product_id": 101021,
+        "product_name": "Sausage Pizza"
+      },
+      {
+        "product_id": 101022,
+        "product_name": "Prawns bun SP"
+      },
+      {
+        "product_id": 101023,
+        "product_name": "Salmon Curry & Egg Bun SP"
+      },
+      {
+        "product_id": 101024,
+        "product_name": "Chicken Bun SP"
+      },
+      {
+        "product_id": 101025,
+        "product_name": "Egg & Seenisambal Bun"
+      },
+      {
+        "product_id": 101026,
+        "product_name": "Ham & Egg Bun"
+      },
+      {
+        "product_id": 101027,
+        "product_name": "Polsambal Toast With Egg & Cheese"
+      },
+      {
+        "product_id": 101028,
+        "product_name": "Onion Tempered With Egg & Cheese"
+      },
+      {
+        "product_id": 101029,
+        "product_name": "DEVILLED BEEF BUN"
+      }
+    ],
+    "cookies": [
+      {
+        "product_id": 105022,
+        "product_name": "Egg Drop Biscuit - 150g"
+      },
+      {
+        "product_id": 105023,
+        "product_name": "Egg Drop Biscuit 190g Btl"
+      },
+      {
+        "product_id": 105020,
+        "product_name": "Viskirigha - 200g"
+      },
+      {
+        "product_id": 105021,
+        "product_name": "Gajute - 150g"
+      },
+      {
+        "product_id": 105024,
+        "product_name": "Hot Dog Toast - 200g"
+      },
+      {
+        "product_id": 105025,
+        "product_name": "Tea Time Rusk"
+      },
+      {
+        "product_id": 105019,
+        "product_name": "Butter Biscuit - 200g"
+      },
+      {
+        "product_id": 105029,
+        "product_name": "Garlic Toast - 150g"
+      },
+      {
+        "product_id": 105000,
+        "product_name": "Baby Ghanakatha - Btl"
+      },
+      {
+        "product_id": 105001,
+        "product_name": "Baby Ghanakatha - 250g"
+      },
+      {
+        "product_id": 105002,
+        "product_name": "Butter Cookies - 200g"
+      },
+      {
+        "product_id": 105003,
+        "product_name": "Butter Cookies 240g Btl"
+      },
+      {
+        "product_id": 105004,
+        "product_name": "Chocolate Cookies - 200g"
+      },
+      {
+        "product_id": 105005,
+        "product_name": "Chocolate Cookies 270g Btl"
+      },
+      {
+        "product_id": 105006,
+        "product_name": "Butter Jam Cookies - 200g"
+      },
+      {
+        "product_id": 105007,
+        "product_name": "Butter Jam Cookies 200g Btl"
+      },
+      {
+        "product_id": 105008,
+        "product_name": "Chocolate Jam Cookies - 200g"
+      },
+      {
+        "product_id": 105009,
+        "product_name": "Chocolate Jam Cookies 180g Btl"
+      },
+      {
+        "product_id": 105010,
+        "product_name": "Coconut Cookies - 200g"
+      },
+      {
+        "product_id": 105011,
+        "product_name": "Coconut Cookies 220g Btl"
+      },
+      {
+        "product_id": 105012,
+        "product_name": "Tea Time Cookies - 200g"
+      },
+      {
+        "product_id": 105013,
+        "product_name": "Tea Time Cookies 240g Btl"
+      },
+      {
+        "product_id": 105014,
+        "product_name": "Herb Cookies - 200g"
+      },
+      {
+        "product_id": 105015,
+        "product_name": "Herb Cookies 260g Btl"
+      },
+      {
+        "product_id": 105016,
+        "product_name": "Kisses - 100g"
+      },
+      {
+        "product_id": 105017,
+        "product_name": "Ghee Cookies - 100g"
+      },
+      {
+        "product_id": 105018,
+        "product_name": "Nut Macroon - 150g"
+      },
+      {
+        "product_id": 105026,
+        "product_name": "Chocolate Milk Cookies (4nos)"
+      },
+      {
+        "product_id": 105027,
+        "product_name": "Ginger Cookies (6nos)"
+      },
+      {
+        "product_id": 105028,
+        "product_name": "Ginger Cookies Btl"
+      },
+      {
+        "product_id": 105031,
+        "product_name": "Chocolate Chips Cookies (2nos)"
+      },
+      {
+        "product_id": 105032,
+        "product_name": "GHANAKATHA"
+      }
+    ],
+    "muffins": [
+      {
+        "product_id": 301000,
+        "product_name": "Adda"
+      },
+      {
+        "product_id": 301007,
+        "product_name": "Ice Sponge"
+      },
+      {
+        "product_id": 301008,
+        "product_name": "Chocolate Muffins"
+      },
+      {
+        "product_id": 301009,
+        "product_name": "Vanilla Muffins"
+      },
+      {
+        "product_id": 301010,
+        "product_name": "Butterscotch Muffins"
+      },
+      {
+        "product_id": 301011,
+        "product_name": "Cheese Cake Tart"
+      },
+      {
+        "product_id": 305017,
+        "product_name": "Chocolate Brownie"
+      },
+      {
+        "product_id": 103009,
+        "product_name": "Banana Bread (L)"
+      },
+      {
+        "product_id": 103010,
+        "product_name": "Banana Bread (S)"
+      }
+    ],
+    "base": [
+      {
+        "product_id": 302016,
+        "product_name": "FINGER SPONCH"
+      },
+      {
+        "product_id": 304000,
+        "product_name": "BUTTER CAKE - 1KG"
+      },
+      {
+        "product_id": 304001,
+        "product_name": "BUTTER CAKE - 500G"
+      },
+      {
+        "product_id": 304006,
+        "product_name": "DATE CAKE - 1KG"
+      },
+      {
+        "product_id": 304007,
+        "product_name": "DATE CAKE - 500G"
+      }
+    ],
+    "sandwiches_and_shawarma": [
+      {
+        "product_id": 202000,
+        "product_name": "Chicken Sandwich"
+      },
+      {
+        "product_id": 202001,
+        "product_name": "Egg Sandwich"
+      },
+      {
+        "product_id": 202002,
+        "product_name": "Tuna Sandwich"
+      },
+      {
+        "product_id": 202003,
+        "product_name": "Cheese & Tomato Sandwich"
+      },
+      {
+        "product_id": 202004,
+        "product_name": "Chicken Shawarma"
+      },
+      {
+        "product_id": 202005,
+        "product_name": "Chicken Club Sandwich Piece"
+      },
+      {
+        "product_id": 202006,
+        "product_name": "Egg & Ham Cheese Sandwich"
+      },
+      {
+        "product_id": 101015,
+        "product_name": "Salad Bun"
+      }
+    ],
+    "cake_slices": [
+      {
+        "product_id": 302000,
+        "product_name": "Apple Cake"
+      },
+      {
+        "product_id": 302001,
+        "product_name": "Black Cake Slices"
+      },
+      {
+        "product_id": 302002,
+        "product_name": "Swiss Roll Slices - 3nos"
+      },
+      {
+        "product_id": 302003,
+        "product_name": "Swiss Roll Slices - 6nos"
+      },
+      {
+        "product_id": 302004,
+        "product_name": "Chocolate/Coffee/Strawberry Swiss Roll"
+      },
+      {
+        "product_id": 302005,
+        "product_name": "Chocolate Sponge Slices"
+      },
+      {
+        "product_id": 302006,
+        "product_name": "Rum Ball"
+      },
+      {
+        "product_id": 302017,
+        "product_name": "Chocolate Rollo"
+      },
+      {
+        "product_id": 302007,
+        "product_name": "Chocolate Fudge Cake Slice"
+      },
+      {
+        "product_id": 302008,
+        "product_name": "Loop Chocolate Cake"
+      },
+      {
+        "product_id": 302009,
+        "product_name": "Gateau Slices"
+      },
+      {
+        "product_id": 302011,
+        "product_name": "Icing Cake Slices"
+      },
+      {
+        "product_id": 302012,
+        "product_name": "Cheese Cake Slices"
+      },
+      {
+        "product_id": 302013,
+        "product_name": "Jam Swiss Roll Slices"
+      },
+      {
+        "product_id": 302014,
+        "product_name": "Mousse Cake Slices L"
+      },
+      {
+        "product_id": 302015,
+        "product_name": "Mousse Cake Slices"
+      },
+      {
+        "product_id": 302010,
+        "product_name": "RED VELVET CAKE SLICE"
+      }
+    ],
+    "dry_cakes": [
+      {
+        "product_id": 304002,
+        "product_name": "BUTTER RIBBON CAKE - 1KG"
+      },
+      {
+        "product_id": 304003,
+        "product_name": "BUTTER RIBBON CAKE - 500G"
+      },
+      {
+        "product_id": 304004,
+        "product_name": "CHOCOLATE CAKE - 1KG"
+      },
+      {
+        "product_id": 304005,
+        "product_name": "CHOCOLATE CAKE - 500G"
+      },
+      {
+        "product_id": 304009,
+        "product_name": "FRUIT CAKE - 1KG"
+      },
+      {
+        "product_id": 304010,
+        "product_name": "FRUIT CAKE - 500G"
+      },
+      {
+        "product_id": 304011,
+        "product_name": "CHOCOLATE RIBBON SPONGE C"
+      },
+      {
+        "product_id": 304012,
+        "product_name": "RIBBON SPONGE CAKE - 400G"
+      },
+      {
+        "product_id": 304013,
+        "product_name": "COCONUT CAKE - 1KG"
+      },
+      {
+        "product_id": 304014,
+        "product_name": "COCONUT CAKE - 500G"
+      },
+      {
+        "product_id": 304019,
+        "product_name": "BUTTER RIBBON CAKE - 550G"
+      },
+      {
+        "product_id": 304020,
+        "product_name": "BUTTER RIBBON CAKE - 450G"
+      },
+      {
+        "product_id": 304021,
+        "product_name": "BUTTER RIBBON CAKE - 400G"
+      },
+      {
+        "product_id": 304022,
+        "product_name": "CHOCOLATE CAKE - 600G"
+      },
+      {
+        "product_id": 304023,
+        "product_name": "CHOCOLATE CAKE - 550G"
+      },
+      {
+        "product_id": 304024,
+        "product_name": "CHOCOLATE CAKE - 450G"
+      }
+    ],
+    "sp_cake": [
+      {
+        "product_id": 303005,
+        "product_name": "Love Cake Slices"
+      },
+      {
+        "product_id": 303006,
+        "product_name": "Rice Cake Slices"
+      },
+      {
+        "product_id": 304015,
+        "product_name": "RICH CAKE - 1KG"
+      },
+      {
+        "product_id": 304016,
+        "product_name": "RICH CAKE - 500G"
+      },
+      {
+        "product_id": 304017,
+        "product_name": "LOVE CAKE - 1KG"
+      },
+      {
+        "product_id": 304018,
+        "product_name": "LOVE CAKE - 500G"
+      }
+    ],
+    "gateau_cakes": [
+      {
+        "product_id": 307000,
+        "product_name": "Red Velvet Cake - S"
+      },
+      {
+        "product_id": 307001,
+        "product_name": "Red Velvet Cake - L"
+      },
+      {
+        "product_id": 307002,
+        "product_name": "Fruit Gateau - S"
+      },
+      {
+        "product_id": 307003,
+        "product_name": "Fruit Kamp Gateau"
+      },
+      {
+        "product_id": 307004,
+        "product_name": "Fruit Gateau - L"
+      },
+      {
+        "product_id": 307005,
+        "product_name": "Vanilla Gateau - L"
+      },
+      {
+        "product_id": 307006,
+        "product_name": "Chocolate Gateau - L"
+      },
+      {
+        "product_id": 307007,
+        "product_name": "Chocolate Gateau (M)"
+      },
+      {
+        "product_id": 307008,
+        "product_name": "Chocolate Gateau (S)"
+      },
+      {
+        "product_id": 307009,
+        "product_name": "Pineapple Gateau"
+      },
+      {
+        "product_id": 307010,
+        "product_name": "Pineapple Gateau (S)"
+      },
+      {
+        "product_id": 307011,
+        "product_name": "Orange Gateau"
+      },
+      {
+        "product_id": 307012,
+        "product_name": "Orange Gateau (S)"
+      },
+      {
+        "product_id": 307013,
+        "product_name": "Strawberry Gateau"
+      },
+      {
+        "product_id": 307014,
+        "product_name": "Strawberry Gateau (S)"
+      },
+      {
+        "product_id": 307015,
+        "product_name": "Blueberry Gateau"
+      },
+      {
+        "product_id": 307016,
+        "product_name": "Blueberry Gateau (S)"
+      },
+      {
+        "product_id": 307017,
+        "product_name": "Kiwi Gateau"
+      },
+      {
+        "product_id": 307018,
+        "product_name": "Kiwi Gateau (S)"
+      },
+      {
+        "product_id": 307019,
+        "product_name": "Mango Gateau"
+      },
+      {
+        "product_id": 307020,
+        "product_name": "Mango Gateau (S)"
+      },
+      {
+        "product_id": 307021,
+        "product_name": "Opera Gateau - S"
+      },
+      {
+        "product_id": 307022,
+        "product_name": "Opera Gateau - L"
+      },
+      {
+        "product_id": 307023,
+        "product_name": "Coffee Gatue - S"
+      },
+      {
+        "product_id": 307024,
+        "product_name": "Oreo Gatue"
+      },
+      {
+        "product_id": 307025,
+        "product_name": "Black Forest Gateau - S"
+      },
+      {
+        "product_id": 307026,
+        "product_name": "Black Forest Gateau - L"
+      },
+      {
+        "product_id": 307027,
+        "product_name": "White Forest Gateau - S"
+      },
+      {
+        "product_id": 307028,
+        "product_name": "White Forest Gateau - L"
+      },
+      {
+        "product_id": 307029,
+        "product_name": "Strawberry Mousse Cake"
+      },
+      {
+        "product_id": 307030,
+        "product_name": "Blueberry Mousse Cake"
+      },
+      {
+        "product_id": 307031,
+        "product_name": "Chocolate Mousse Cake"
+      },
+      {
+        "product_id": 307032,
+        "product_name": "Strawberry Mousse Cake - S"
+      },
+      {
+        "product_id": 307033,
+        "product_name": "Blueberry Mousse Cake - S"
+      },
+      {
+        "product_id": 307034,
+        "product_name": "Chocolate Mousse Cake - S"
+      },
+      {
+        "product_id": 307035,
+        "product_name": "Mud Cake"
+      },
+      {
+        "product_id": 307036,
+        "product_name": "Mocha Cake"
+      },
+      {
+        "product_id": 307037,
+        "product_name": "Chocolate Fudge Cake"
+      }
+    ],
+    "juice_bottle_and_ice_coffee": [
+      {
+        "product_id": 401000,
+        "product_name": "Strawberry & Guava"
+      },
+      {
+        "product_id": 401001,
+        "product_name": "Orange"
+      },
+      {
+        "product_id": 401002,
+        "product_name": "Mango"
+      },
+      {
+        "product_id": 401003,
+        "product_name": "Mix Fruit"
+      },
+      {
+        "product_id": 401004,
+        "product_name": "Ice Coffee - 250ml"
+      },
+      {
+        "product_id": 401007,
+        "product_name": "Ice Coffee - 500ml"
+      }
+    ],
+    "dry_cakes_slices": [
+      {
+        "product_id": 303000,
+        "product_name": "Butter Cake Slices"
+      },
+      {
+        "product_id": 303001,
+        "product_name": "Butter Ribbon Cake Slices"
+      },
+      {
+        "product_id": 303002,
+        "product_name": "Chocolate Cake Slices"
+      },
+      {
+        "product_id": 303003,
+        "product_name": "Fruit Cake Slices"
+      },
+      {
+        "product_id": 303004,
+        "product_name": "Date Cake Slices"
+      },
+      {
+        "product_id": 303007,
+        "product_name": "RIBBON SPONG SLICES"
+      },
+      {
+        "product_id": 303008,
+        "product_name": "CHOCOLATE RIBBON SPONG SLICE"
+      }
+    ],
+    "icing_cakes": [
+      {
+        "product_id": 306000,
+        "product_name": "Chocolate Icing Cake - S"
+      },
+      {
+        "product_id": 306001,
+        "product_name": "Chocolate Icing Cake - M"
+      },
+      {
+        "product_id": 306002,
+        "product_name": "Chocolate Icing Cake - L"
+      },
+      {
+        "product_id": 306003,
+        "product_name": "Vanilla Icing Cake - S"
+      },
+      {
+        "product_id": 306004,
+        "product_name": "Vanilla Icing Cake - M"
+      },
+      {
+        "product_id": 306005,
+        "product_name": "Vanilla Icing Cake - L"
+      },
+      {
+        "product_id": 306006,
+        "product_name": "Chocolate Swiss Roll Icing Cake"
+      },
+      {
+        "product_id": 306007,
+        "product_name": "Nuga Icing Cake - S"
+      },
+      {
+        "product_id": 306008,
+        "product_name": "Nuga Icing Cake - M"
+      },
+      {
+        "product_id": 306009,
+        "product_name": "Nuga Icing Cake - L"
+      },
+      {
+        "product_id": 306010,
+        "product_name": "Coffee Icing Cake - S"
+      },
+      {
+        "product_id": 306011,
+        "product_name": "Coffee Icing Cake - M"
+      },
+      {
+        "product_id": 306012,
+        "product_name": "Coffee Icing Cake - L"
+      },
+      {
+        "product_id": 306013,
+        "product_name": "Ganache Icing Cake - S"
+      },
+      {
+        "product_id": 306014,
+        "product_name": "Ganache Icing Cake - M"
+      },
+      {
+        "product_id": 306015,
+        "product_name": "Ganache Icing Cake - L"
+      },
+      {
+        "product_id": 306016,
+        "product_name": "H'B'D Icing Cake"
+      },
+      {
+        "product_id": 306020,
+        "product_name": "H'B'D Icing Cake - S"
+      },
+      {
+        "product_id": 306021,
+        "product_name": "Chocolate Icing Cake Ring"
+      },
+      {
+        "product_id": 306022,
+        "product_name": "Vanilla Icing Cake Ring"
+      },
+      {
+        "product_id": 306023,
+        "product_name": "Coffee Icing Cake Ring"
+      },
+      {
+        "product_id": 306025,
+        "product_name": "BENTO CAKE"
+      }
+    ],
+    "desert": [
+      {
+        "product_id": 305015,
+        "product_name": "Milk Toffee Pkt"
+      },
+      {
+        "product_id": 305016,
+        "product_name": "Jujubs"
+      },
+      {
+        "product_id": 305018,
+        "product_name": "Marsmellows - 100g"
+      },
+      {
+        "product_id": 305019,
+        "product_name": "Fruit Tiramusu"
+      },
+      {
+        "product_id": 305020,
+        "product_name": "Coffee Tiramusu"
+      },
+      {
+        "product_id": 305021,
+        "product_name": "Strawberry Tiramusu"
+      },
+      {
+        "product_id": 305022,
+        "product_name": "Mango Tiramusu"
+      },
+      {
+        "product_id": 305023,
+        "product_name": "Pineapple Tiramusu"
+      },
+      {
+        "product_id": 305024,
+        "product_name": "Mini Opera Gateau"
+      },
+      {
+        "product_id": 305025,
+        "product_name": "Bread Pudding"
+      },
+      {
+        "product_id": 305026,
+        "product_name": "Jaggery Pudding"
+      },
+      {
+        "product_id": 305027,
+        "product_name": "Petit Gatue"
+      },
+      {
+        "product_id": 301017,
+        "product_name": "Cup Cake"
+      }
+    ],
+    "desert_small": [
+      {
+        "product_id": 305000,
+        "product_name": "Biscuits Mousse Pudding - S"
+      },
+      {
+        "product_id": 305001,
+        "product_name": "Biscuits Mousse Pudding - L"
+      },
+      {
+        "product_id": 305002,
+        "product_name": "Chocolate Mousse - S"
+      },
+      {
+        "product_id": 305003,
+        "product_name": "Chocolate Mousse - L"
+      },
+      {
+        "product_id": 305004,
+        "product_name": "Chocolate Tart - S"
+      },
+      {
+        "product_id": 305005,
+        "product_name": "Coconut Tart - S"
+      },
+      {
+        "product_id": 305006,
+        "product_name": "Fruit Tart - S"
+      },
+      {
+        "product_id": 305007,
+        "product_name": "Bluberry Tart - S"
+      },
+      {
+        "product_id": 305008,
+        "product_name": "Strawberry Tart - S"
+      },
+      {
+        "product_id": 305009,
+        "product_name": "Cream Caramal - S"
+      },
+      {
+        "product_id": 305010,
+        "product_name": "Cream Caramal - L"
+      },
+      {
+        "product_id": 305011,
+        "product_name": "Watalappan - S"
+      },
+      {
+        "product_id": 305012,
+        "product_name": "Watalappan - L"
+      },
+      {
+        "product_id": 305013,
+        "product_name": "Fruit Triple - S"
+      },
+      {
+        "product_id": 305014,
+        "product_name": "Fruit Triple - L"
+      },
+      {
+        "product_id": 301012,
+        "product_name": "Chocolate Éclair"
+      },
+      {
+        "product_id": 301013,
+        "product_name": "Coffee Éclair"
+      },
+      {
+        "product_id": 301014,
+        "product_name": "Strawberry Éclair"
+      },
+      {
+        "product_id": 301015,
+        "product_name": "Oreo Éclair"
+      },
+      {
+        "product_id": 301016,
+        "product_name": "Vanilla Éclair"
+      }
+    ]
+  }
+}
