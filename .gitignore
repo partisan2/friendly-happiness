@@ -1,0 +1,6 @@
+/dist
+/build
+/.venv
+
+/app.spec
+/data.xlsx
