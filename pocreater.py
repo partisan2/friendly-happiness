@@ -117,4 +117,4 @@ def createPoexcel(output_folder):
     # Save to a new Excel file
     output_filename = input("Enter the name for the output Excel file (without extension): ")
     full_output_path = os.path.join(output_folder, output_filename)
-    df_final.to_excel(f"{full_output_path}.xlsx", index=False)
+    return df_final.to_excel(f"{full_output_path}.xlsx", index=False)
